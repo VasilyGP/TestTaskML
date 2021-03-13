@@ -1,0 +1,1 @@
+This is a project for a test task about ML.
